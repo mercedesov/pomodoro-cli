@@ -1,2 +1,2 @@
-# pomodoro-cli
-cli pomodoro for mac
+# CLI Pomodoro
+for mac
